@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "mydbconnectionstring": "mongodb://hellocellocosmos:BgSXCT4R2peiilTfF2Fo5popRofHrtEBmCevCdGmlkIzjQWZzUqepnAEnQXF80vzaertd3XdjWF81VwSqkA2fw==@hellocellocosmos.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@hellocellocosmos@",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hellocellostorage;AccountKey=YKjdTK/2KLbgIDMdVjOr9OQm2s9PLF/zF52CthUC07yQmu+VaoDMhgY96EJaGEBhK5s6qQJubiqqixAjU4q9IQ==;EndpointSuffix=core.windows.net"
+  },
+  "ConnectionStrings": {}
+
+}
